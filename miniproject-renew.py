@@ -43,7 +43,7 @@ is the case!! And after all, the problems I check is an economic question -
 the prediction was done in two ways and if each one of them gives me the 
 same answer I know I overcame the problem of the schedule. 
 To appoint we have 2 problems: 
-1) time schedule and data structure, 
+1) Time schedule and data structure, 
 2) Small data? 
     These are the two main problems are inquering and solving in the economic
 data structure I have on the hands. And the question is: will we be able to 
